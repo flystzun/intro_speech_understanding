@@ -1,0 +1,4 @@
+"""This is a script that I am creating as part of lecture 2 in the Speech Understanding course.
+
+
+print("Hello world")
